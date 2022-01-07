@@ -1,0 +1,10 @@
+    "name": "MiniBTC",
+    "website": "https://minibtc.org",
+    "description": "MiniBTC is a community-driven DeFi token on the Binance Smart Chain that is an automatic liquidity providing protocol that pays out static rewards to holders.",
+    "explorer": "https://bscscan.com/token/0x3bC72EFf96752C2f66c7dE855f97C23eC4A1aC01",
+    "type": "BEP20",
+    "symbol": "MINIBTC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x3bC72EFf96752C2f66c7dE855f97C23eC4A1aC01"
+}
